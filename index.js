@@ -22,3 +22,5 @@ const getRepos = async ({
     return [];
   }
 };module.exports = { getRepos };
+
+//getRepos().then((repositories) => console.log(repositories));
